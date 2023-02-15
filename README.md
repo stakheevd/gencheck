@@ -1,2 +1,2 @@
-# gencheck
-Checking the correctness of the random number generator
+# RNG testing
+Checking the correctness of the random number generator.
